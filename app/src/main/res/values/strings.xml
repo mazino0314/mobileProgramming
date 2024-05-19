@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nako</string>
+
+    <!-- bottom_navigation_menu.xml에 사용되는 item의 title 속성 -->
+    <string name="text_label_1">Home</string>
+    <string name="text_label_2">Diet</string>
+    <string name="text_label_3">Exercise</string>
+    <string name="text_label_4">Setting</string>
+</resources>
